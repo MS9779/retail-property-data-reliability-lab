@@ -1,0 +1,6 @@
+lease_id,property_id,market,country,monthly_rent,currency,lease_status
+L-1001,P-001,Northwest,US,18500,USD,ACTIVE
+L-1002,P-002,Central,US,22000,USD,ACTIVE
+L-1003,P-003,Mexico City,MX,315000,MXN,ACTIVE
+L-1004,P-004,San Juan,PR,16000,USD,ACTIVE
+L-1005,P-005,Central,US,19500,USD,EXPIRED
