@@ -1,0 +1,5 @@
+property_id,location_name,market,country,active
+P-001,Fictional Northwest Store,Northwest,US,true
+P-002,Fictional Central Store,Central,US,true
+P-003,Fictional Mexico City Store,Mexico City,MX,true
+P-004,Fictional San Juan Store,San Juan,PR,true
